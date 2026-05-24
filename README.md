@@ -1,6 +1,6 @@
-# SMS Forwarder — Android App
+# SMS Relay — Android App
 
-Automatically forwards every incoming SMS to **Email (Gmail/SMTP)**, **WhatsApp**, or **Google Voice** — configurable from a single settings screen.
+Automatically forwards every incoming SMS to **Email (Gmail/SMTP)**, **Google Chat**, **WhatsApp**, or **Google Voice** — configurable from a single settings screen.
 
 ---
 
