@@ -1,0 +1,55 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Dark Blue Rounded Background (Squircle) -->
+    <path
+        android:fillColor="#041142"
+        android:pathData="M25,0 L75,0 C90,0 100,10 100,25 L100,75 C100,90 90,100 75,100 L25,100 C10,100 0,90 0,75 L0,25 C0,10 10,0 25,0 Z" />
+
+    <!-- Envelope Main Outline - Changed to White for clarity -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M22,35 L78,35 L78,65 L22,65 Z" />
+
+    <!-- Envelope Flap (V-Shape) - Changed to White -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M22,35 L50,52 L78,35" />
+
+    <!-- Faint Accent Lines - Made slightly brighter -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:strokeAlpha="0.3"
+        android:pathData="M18,31 L26,39 M74,31 L82,39 M18,69 L26,61 M74,69 L82,61" />
+
+    <!-- Horizontal Lines (Lower left) - Made brighter -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:strokeAlpha="0.5"
+        android:pathData="M28,55 L45,55 M28,60 L40,60" />
+
+    <!-- Forward Action Button (Blue Pill) -->
+    <path
+        android:fillColor="#1D53BC"
+        android:pathData="M60,60 L85,60 C90,60 92,62 92,68 L92,68 C92,74 90,76 85,76 L60,76 C55,76 53,74 53,68 L53,68 C53,62 55,60 60,60 Z" />
+
+    <!-- White Arrow inside the pill -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M65,68 L80,68 M75,63 L80,68 L75,73" />
+
+</vector>

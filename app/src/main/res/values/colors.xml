@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Microsoft-inspired palette -->
+    <color name="primary">#0067B8</color> <!-- Microsoft Blue -->
+    <color name="primary_variant">#005A9E</color>
+    <color name="secondary">#2B2B2B</color>
+
+    <color name="background">#F2F2F2</color> <!-- Light grey background -->
+    <color name="surface">#FFFFFF</color>
+
+    <color name="text_primary">#2B2B2B</color>
+    <color name="text_secondary">#616161</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="divider">#E1E1E1</color>
+
+    <!-- Status colors -->
+    <color name="success">#107C10</color> <!-- Microsoft Green -->
+    <color name="warning">#FFB900</color> <!-- Microsoft Yellow/Orange -->
+    <color name="error">#D83B01</color> <!-- Microsoft Red -->
+    <color name="card_selected_bg">#EBF3FB</color>
+</resources>
